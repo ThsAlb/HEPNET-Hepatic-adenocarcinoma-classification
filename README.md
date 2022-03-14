@@ -1,1 +1,1 @@
-# HEPNET-Hepatic-adenocarcinoma-classification
+# HEPNET:HEPatic adenocarcinoma classification NETwork
