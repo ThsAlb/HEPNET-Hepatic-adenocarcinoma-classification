@@ -12,7 +12,7 @@ Histopathological diagnosis of hepatic adenocarcinomas can be challenging, in pa
 Our model has been trained on more than 700.000 image tiles curated at the Heidelberg University Hospital. We used an EfficientNET B3 model precalibrated to ImageNet.
 
 ## How to use
-The final model including its weights can be downloaded in the folder /model. It can be applied to any image tile with at least 300 x 300 pixel entry dimensions. We recommend QuPath for image partionining and prior color normalization (via the Macenko method). The model will output a probability of the tile to represent intrahepatic cholangiocarcinoma or colorectal metastasis (sigmoid function).
+The final model including its weights can be downloaded in the folder /model. It can be applied to any image tile with at least 300 x 300 pixel entry dimensions. We recommend QuPath for image partitioning and prior color normalization (via the Macenko method). The model will output a probability of the tile to represent intrahepatic cholangiocarcinoma or colorectal metastasis (sigmoid function).
 
 ## Dependencies
 Linux (Tested on Ubuntu 18.04)
