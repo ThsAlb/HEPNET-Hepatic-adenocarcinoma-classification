@@ -10,7 +10,7 @@ This is the source code for an unpublished project currently under review at a s
 ## Introduction
 Histopathological diagnosis of hepatic adenocarcinomas can be challenging, in particular since the liver is the most frequent site of cancer metastasis. We here provide a deep learning model capable of accurately predicting intrahepatic cholangiocarcinoma and colorectal liver metastasis as two major forms of liver adenocarcinomas directly on hematoxylin & eosin stained whole slide images. 
 
-## Methodology
+## Model architecture
 Our model has been trained on more than 700.000 image tiles curated at the Heidelberg University Hospital. We used an EfficientNET B3 model precalibrated to ImageNet.
 
 ## How to use
