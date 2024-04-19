@@ -5,7 +5,7 @@
 We present HEPNET, a deep learning classifier for the diagnosis of hepatic adenocarcinomas on hematoxylin&eosin-stained histopathological slides.
 
 ## What is this?
-This is the source code for an unpublished project currently under review at a scientific journal. 
+This is the source code for a published deep learning model for the classification of adenocarcinomas within the liver (https://www.sciencedirect.com/science/article/pii/S0016508523048837?via%3Dihub).
 
 ## Introduction
 Histopathological diagnosis of hepatic adenocarcinomas can be challenging, in particular since the liver is the most frequent site of cancer metastasis. We here provide a deep learning model capable of accurately predicting intrahepatic cholangiocarcinoma and colorectal liver metastasis as two major forms of liver adenocarcinomas directly on hematoxylin & eosin stained whole slide images. 
